@@ -29,6 +29,7 @@ La documentación de la API está disponible en [DolarApi.com](https://dolarapi.
 - [DolarArg](https://dolar-arg-app.netlify.app/): App Web que muestra las cotizaciones de dólares en Argentina con agradable diseño.
 - [Dolar Info](https://www.dolar-info.com/): Aplicación web enfocada en ofrecer información actualizada para analizar indicadores económicos claves de Argentina.
 - [Dolar Ipc Argentina](https://dolar-ipc-app.vercel.app): Aplicación web desarrollada en next.js, con cotizaciones del dolar en Argentina e inflacion mensual (IPC).
+- [Calculadora Dolar](https://calculadoradolar.com/): Plugin desarrollado para WordPress con cotizaciones del dólar en Argentina y calculadora en tiempo real para compra y venta.
 
 > [!NOTE]  
 > Para agregar tu aplicación puedes [Editar esta lista](https://github.com/enzonotario/esjs-dolar-api/edit/main/README.md) y hacer un Pull Request, o abrir un [Issue](https://github.com/enzonotario/esjs-dolar-api/issues/new?assignees=&labels=documentation&projects=&template=nueva-aplicaci%C3%B3n.md&title=Listar+Aplicaci%C3%B3n).
